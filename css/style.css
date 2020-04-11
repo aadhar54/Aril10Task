@@ -59,7 +59,7 @@ body{
 #ins{
     display: flex;
     justify-content: flex-end;
-    
+    height:200px;
     
 }
 .instr img{
